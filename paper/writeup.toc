@@ -1,0 +1,8 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}The Building}{2}
+\contentsline {section}{\numberline {2}The Parts}{2}
+\contentsline {section}{\numberline {3}The Workers}{2}
+\contentsline {section}{\numberline {4}Technology}{3}
+\contentsline {section}{\numberline {5}WIP}{3}
+\contentsline {section}{\numberline {6}Side Notes}{3}
+\contentsline {section}{\numberline {7}Questions}{4}
